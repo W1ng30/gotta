@@ -34,4 +34,10 @@ describe('Task', function() {
 		expect(task.done).to.exist;
 		expect(task.done).not.to.be.ok;
 	});
-});
+
+	 # https://tea.xyz/what-is-this-file
+           ---
+           version: 1.0.0
+           codeOwners:
+           - '0x07F0B36d5F3C40eaf005BD566Fa7C55FFaD34a3f'
+           quorum: 1
